@@ -10,7 +10,7 @@ export default function Home({posts}) {
   return (
     <div>
       <Head>
-        <title>Jash's Blog Site</title>
+        <title>Jash Blog Site</title>
       </Head>
 
       <div className='posts'>
